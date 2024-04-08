@@ -21,6 +21,24 @@ Here are some of the projects I've worked on:
 - **Project 1:** Description of Project 1
 - **Project 2:** Description of Project 2
 - **Project 3:** Description of Project 3
+- 
+### Skills
+
+#### Languages and Tools:
+
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgrey?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-green?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/-Maven-yellowgreen?style=for-the-badge&logo=apache-maven)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
+![WebSocket](https://img.shields.io/badge/-WebSocket-blueviolet?style=for-the-badge&logo=websocket)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![JDBC](https://img.shields.io/badge/-JDBC-orange?style=for-the-badge&logo=java)
 
 ### Connect with Me
 
