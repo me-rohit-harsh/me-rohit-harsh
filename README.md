@@ -12,7 +12,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit-blue)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/merohitharsh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit-blue)](https://www.linkedin.com/in/merohitharsh/)
 [![GitHub](https://img.shields.io/badge/GitHub-rohit-green)](https://github.com/me-rohit-harsh)
 
 Feel free to reach out if you want to collaborate on projects or just chat about coding and technology!
