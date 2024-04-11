@@ -18,7 +18,7 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 
 Here are some of the projects I've worked on:
 
---Coming Soon
+-- Coming Soon
 
 ### Skills
 
