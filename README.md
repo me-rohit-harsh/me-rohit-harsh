@@ -16,7 +16,6 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 - 📫 Reach out to me: **+91 7488794480**
 
 ### Projects
-
 Here are some of the projects I've worked on:
 
 -- *Coming Soon*
