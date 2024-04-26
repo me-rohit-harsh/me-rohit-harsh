@@ -19,7 +19,7 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 
 Here are some of the projects I've worked on:
 
-### [Semi-Automated Payment Gateway](https://github.com/yourusername/payment-gateway](https://github.com/me-rohit-harsh/UPI-Gateway#:~:text=Repository%20files%20navigation-,README))
+### [Semi-Automated Payment Gateway](https://github.com/me-rohit-harsh/UPI-Gateway#:~:text=Repository%20files%20navigation-,README))
 **Technologies:** Java, Spring Boot, Hibernate, Maven, MySQL, Thymeleaf, Lombok  
 **Features:**
 - Effortlessly verify transactions, generate dynamic QR codes and payment links & enable seamless payments.
