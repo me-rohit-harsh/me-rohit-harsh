@@ -19,21 +19,21 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 
 Here are some of the projects I've worked on:
 
-### [Semi-Automated Payment Gateway](https://github.com/yourusername/payment-gateway)
+### [Semi-Automated Payment Gateway]([https://github.com/yourusername/payment-gateway](https://github.com/me-rohit-harsh/UPI-Gateway#:~:text=Repository%20files%20navigation-,README))
 **Technologies:** Java, Spring Boot, Hibernate, Maven, MySQL, Thymeleaf, Lombok  
 **Features:**
 - Effortlessly verify transactions, generate dynamic QR codes and payment links & enable seamless payments.
 - Funds are promptly added to user wallets upon successful transactions, boasting a success rate exceeding 75%.
 - User satisfaction rate of 100%.
 
-### Customer Support System
+### [Customer Support System](https://github.com/me-rohit-harsh/chat#:~:text=Repository%20files%20navigation-,README,-About)
 **Technologies:** PHP, Laravel MVC, WebSocket, SQL, HTML, CSS, JS, jQuery, Bootstrap  
 **Features:**
 - Seamless communication enabled through live chats with instant replies from the support team.
 - If no update from the team within 2 minutes, chats convert to tickets, initiating email notifications.
 - Achieves a response time of under 2 minutes with a satisfaction rate of 95%.
 
-### New Crypto Token & MLM Networking
+### [New Crypto Token & MLM Networking](https://github.com/me-rohit-harsh/Super-Coin#:~:text=Repository%20files%20navigation-,README)
 **Technologies:** G-Pay Business, SMTP, Java, Spring MVC, Hibernate, SQL, Thymeleaf  
 **Features:**
 - Facilitates wallet transactions and referrals, allowing users to create teams and view hierarchy.
