@@ -15,10 +15,32 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 - 🧑‍💻 Building projects and honing my skills as a Coding Ninja.
 - 📫 Reach out to me: **+91 7488794480**
 
-### Projects
+## Projects
+
 Here are some of the projects I've worked on:
 
--- *Coming Soon*
+### Semi-Automated Payment Gateway
+**Technologies:** Java, Spring Boot, Hibernate, Maven, MySQL, Thymeleaf, Lombok  
+**Features:**
+- Effortlessly verify transactions, generate dynamic QR codes and payment links & enable seamless payments.
+- Funds are promptly added to user wallets upon successful transactions, boasting a success rate exceeding 75%.
+- User satisfaction rate of 100%.
+
+### Customer Support System
+**Technologies:** PHP, Laravel MVC, WebSocket, SQL, HTML, CSS, JS, jQuery, Bootstrap  
+**Features:**
+- Seamless communication enabled through live chats with instant replies from the support team.
+- If no update from the team within 2 minutes, chats convert to tickets, initiating email notifications.
+- Achieves a response time of under 2 minutes with a satisfaction rate of 95%.
+
+### New Crypto Token & MLM Networking
+**Technologies:** G-Pay Business, SMTP, Java, Spring MVC, Hibernate, SQL, Thymeleaf  
+**Features:**
+- Facilitates wallet transactions and referrals, allowing users to create teams and view hierarchy.
+- Users can add funds and withdraw through our semi-automated payment gateway.
+- Enhanced with a unique dark mode UI/UX, ensuring a fully responsive experience with KYC function & user-friendly, modern dashboard.
+- 98% user satisfaction.
+
 
 ### Skills
 
