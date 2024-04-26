@@ -15,11 +15,11 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 - 🧑‍💻 Building projects and honing my skills as a Coding Ninja.
 - 📫 Reach out to me: **+91 7488794480**
 
-## Projects
+## Major Projects ([View All Projects](https://me-rohit-harsh.github.io/personal/))
 
 Here are some of the projects I've worked on:
 
-### Semi-Automated Payment Gateway
+### [Semi-Automated Payment Gateway](https://github.com/yourusername/payment-gateway)
 **Technologies:** Java, Spring Boot, Hibernate, Maven, MySQL, Thymeleaf, Lombok  
 **Features:**
 - Effortlessly verify transactions, generate dynamic QR codes and payment links & enable seamless payments.
