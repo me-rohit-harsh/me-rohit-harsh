@@ -13,7 +13,7 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 - 👀 Exploring new technologies and staying updated with the latest trends.
 - 🌱 Currently delving into **PHP** and **Laravel WebSockets**.
 - 🧑‍💻 Building projects and honing my skills as a Coding Ninja.
-- 📫 Reach out to me: **+91 7488794480**
+- 📫 Reach out to me: **rohitkumarah369@gmail.com**
 
 ## Major Projects ([View All Projects](https://me-rohit-harsh.github.io/personal/))
 
