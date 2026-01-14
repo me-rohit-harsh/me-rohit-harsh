@@ -3,7 +3,6 @@
   <p>Welcome to my coding journey! 🚀</p>
 </div>
 
-
 ### About Me
 
 I'm a coding enthusiast with a passion for learning new technologies and building innovative projects. Currently, I'm diving into the world of PHP and exploring the intricacies of Laravel WebSockets. I'm equally comfortable working on both frontend and backend technologies, and I'm always eager to expand my skill set.
