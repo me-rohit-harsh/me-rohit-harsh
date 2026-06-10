@@ -11,7 +11,7 @@ I'm a coding enthusiast with a passion for learning new technologies and buildin
 ### What I'm Up To
 
 - 👀 Exploring new technologies and staying updated with the latest trends.
-- 🌱 Currently delving into **PHP** and **Laravel WebSockets**.
+- 🌱 Currently delving into **Node** and **Postgresql**.
 - 🧑‍💻 Building projects and honing my skills as a Coding Ninja.
 - 📫 Reach out to me: **rohitkumarah369@gmail.com**
 
